@@ -1,0 +1,4 @@
+Strategy,Channels,Traffic Capacity (Erlangs)
+Fixed Frequency Reuse,48,38.39164117230078
+120-degree Sectorisation,16,29.48534753528179
+Idealised Dynamic Channel Allocation,336,321.71632289619356
